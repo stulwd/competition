@@ -11,10 +11,6 @@ import java.time.DayOfWeek;
 import java.time.LocalDateTime;
 import java.util.*;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args ) throws IOException {
@@ -26,8 +22,6 @@ public class App
         long totalRate = rateCalculator.calculateTotalRate(dataBean.shift.start, dataBean.shift.end);
         System.out.println("rate=" + totalRate);
     }
-
-
 }
 
 class RateCalculator {
