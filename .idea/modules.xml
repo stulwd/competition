@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/competition.iml" filepath="$PROJECT_DIR$/.idea/competition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Credit Suisse/entryChallenge/entryChallenge.iml" filepath="$PROJECT_DIR$/Credit Suisse/entryChallenge/entryChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetCodePractise/entryChallenge/pratise.iml" filepath="$PROJECT_DIR$/leetCodePractise/entryChallenge/pratise.iml" />
+    </modules>
+  </component>
+</project>
