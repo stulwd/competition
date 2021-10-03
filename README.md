@@ -1,2 +1,3 @@
 # competition
-Practising code of some competitions.
+Practised code for some competitions.
+
