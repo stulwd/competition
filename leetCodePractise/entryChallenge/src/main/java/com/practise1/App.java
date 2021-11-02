@@ -8,6 +8,7 @@ public class App
     public static void main( String[] args ){
         RegexMatch regexMatch = new RegexMatch();
         System.out.println(regexMatch.isMatch("i", "."));
+
 //        System.out.println("abc".substring(2,3));
 //        ZTransformation zt = new ZTransformation();
 //        System.out.println(zt.convert("PAYPALISHIRING", 3));
